@@ -6,6 +6,7 @@ $$ {G*m_1*m_2 \over r**2} $$
 $$
 {\sqrt{2}}
 $$
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
 
 The initial conditions can be changed and you can experiment how would the system evolve
 
