@@ -2,7 +2,7 @@
 2D physics simulation of the solar system.
 
 Provided the initial conditions for all planets (mass, position and velocity), the simulation evolves following the Netwon's law of Universal Gravitational:
-![alt_text](https://latex.codecogs.com/png.image?\dpi{110}F&space;=&space;\frac{Gm_1m_2}{r^2})
+![alt_text](https://github.com/ygbuil/Solar-System-Simulation/blob/main/gravitational_force.png)
 
 The initial conditions can be changed and you can experiment how would the system evolve
 
