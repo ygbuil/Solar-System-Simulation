@@ -5,4 +5,4 @@ Provided the initial conditions for all planets (mass, position and velocity), t
 
 After setting the real data for each planet, the simulation evolves like this:
 
-![alt_text](https://github.com/ygbuil/Solar-System-Simulation/blob/master/simulation_plot.png)
+![alt_text](https://github.com/ygbuil/Solar-System-Simulation/blob/master/images/simulation_result.png)
