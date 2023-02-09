@@ -1,12 +1,10 @@
 # libraries
 import os
 import sys
-import numpy as np
-import matplotlib.pyplot as plt
 from pathlib import Path
 
 # root path
-path = Path('C:/Users/llorenc.buil/Documents/github/Solar-System-Simulation')
+path = Path('C:/Users/llorenc.buil/github/Solar-System-Simulation')
 os.chdir(path)
 if path not in sys.path:
     sys.path.append(path)
