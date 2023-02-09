@@ -12,7 +12,7 @@ Lets test how robust is the simulation with the following experiment: set the re
 
 In the picture below we can see the result. The pink planet is Saturn, and we can see that it did almost one orbit as expected!
 
-_Disclaimer: I did not set the exact Saturn orbital time in order to not let it traverse a full orbit so it can be seen that it did 1 lap and not multiple ones_
+_Disclaimer: I did not set the exact Saturn orbital time in order to not let it traverse a full orbit so it can be seen that it did 1 orbit and not multiple ones._
 
 
 ![alt_text](https://github.com/ygbuil/Solar-System-Simulation/blob/master/images/simulation_results.png)
