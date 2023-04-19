@@ -27,6 +27,5 @@ def main(c):
     f.plot_simulation(planets=c.planets)
 
 
-# run simulation
 if __name__ == '__main__':
     main(c=c)
