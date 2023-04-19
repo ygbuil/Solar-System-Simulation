@@ -1,17 +1,6 @@
-# libraries
-import os
-import sys
-from pathlib import Path
-
-# root path
-path = Path('C:/Users/llorenc.buil/github/Solar-System-Simulation')
-os.chdir(path)
-if path not in sys.path:
-    sys.path.append(path)
-
 # local libraries
-from src.constants.constants import c
-from src.objects import functions as f
+from constants.constants import c
+from objects import functions as f
 
 
 def main(c):
