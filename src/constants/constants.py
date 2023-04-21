@@ -2,8 +2,8 @@
 import numpy as np
 
 # local libraries
+import objects.functions as f
 from objects.constants import Constants
-from objects import functions as f
 
 
 c = Constants(
